@@ -1,6 +1,6 @@
 # mobile-networking-portfolio.
-Practical network laboratories, protocol analysis, and security reconnaissance documentation compiled in preparation for SCQF Level 6 Networking studies."
-mkdir -p ~/networking-portfolio && cd ~/networking-portfolio && git init && cat << 'EOF' > README.md
+Practical network laboratories, protocol analysis, and security reconnaissance documentation compiled in preparation for SCQF Level 6 Networking studies.
+
 # SCQF Level 6 Networking Mobile Lab Portfolio
 
 A professional laboratory repository documenting network infrastructure, transport layer protocols, and tactical diagnostic verification labs conducted entirely within a mobile architecture.
@@ -24,4 +24,4 @@ A professional laboratory repository documenting network infrastructure, transpo
 ---
 *Maintained and documented directly from an Android Linux terminal environment (Termux).*
 EOF
-git add README.md && git commit -m "Initial commit: Populated FICS stream and Nmap reconnaissance documentation"
+Initial commit: Populated FICS stream and Nmap reconnaissance documentation"
